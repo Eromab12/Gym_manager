@@ -1,3 +1,5 @@
+##NOTA: Esta app fue hecha con IA por lo tanto es muy propensa a errores y lo demas, simplemente se hizo con el fin de sacar un prototipo funcional...
+
 # Gym Manager App
 
 Aplicación móvil para la gestión de gimnasios desarrollada con React Native, Expo y Node.js, con backend desplegado en Render.
